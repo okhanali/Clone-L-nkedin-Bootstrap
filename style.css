@@ -1,0 +1,27 @@
+.body {
+ background-color: #F4F2EE;
+}
+
+.navbar {
+    height: 80px; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+}
+
+.a1:hover {
+    background-color: rgba(240, 235, 235, 0.886);
+    
+}
+
+.a2:hover {
+    background-color: white;
+}
+
+.a3:hover {
+    background-color: rgba(172, 205, 225, 0.9);
+    padding: 2px;
+}
+
+.btn:hover {
+    background-color: gray;
+}
